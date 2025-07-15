@@ -18,19 +18,22 @@
 ### 🛠️ Skills & Technologies
 
 #### 👩‍💻 Programming
-`C/C++` `Python` `Java` `C#` `Bash` `Node.js`
+`C/C++` `Python` `Java` `C#` `Bash` 
 
 #### 🗃️ Backend & Databases
-`MongoDB` `Firebase` `MySQL` `MQTT`
+`Node.js` `MongoDB` `Firebase` `MySQL` `MQTT`
 
-#### ☁️ Cloud & DevOps
-`AWS Cloud` `Docker` `Kubernetes` `OpenFaaS` `HA Proxy` `Prometheus` `Grafana` `Postman`
+#### ☁️ Cloud
+`AWS Cloud` `Docker` `Kubernetes` `OpenFaaS`
+
+### ⚙ Tools
+`HA Proxy` `Prometheus` `Grafana` `Postman` `Cisco Packet Tracer` `Matlab` `Wireshark`
 
 #### 📱 Mobile & Frontend
 `Flutter` `Android Studio` `Android IDE`
 
 #### 💻 Operating Systems
-`Linux` `Ubuntu`
+`Linux` 
 
 ---
 
@@ -38,24 +41,23 @@
 
 - **👓 Indoor Smart Glasses for the Visually Impaired**  
   Real-time obstacle detection using YOLO, audible feedback via speakers, emergency notifications via Firebase & Flutter.  
-  **Tech**: MQTT, YOLOv8, DeepSORT, Firebase, MediaMTX, Flutter, AWS
+  **Tech**: MQTT (EMQX), YOLOv8, DeepSORT, Firebase, MediaMTX, Flutter, AWS
 
 - **🚗 Smart Parking System**  
   Infrared sensor-based vehicle detection and real-time parking space update with Android app interface.  
-  **Tech**: Node.js, MongoDB, Android Studio, FreeRTOS, Arduino IDE
+  **Tech**: Node.js, Ngrok, MongoDB, Android Studio, FreeRTOS, Arduino IDE
 
 - **📊 MQTT Performance Benchmarking**  
   Comparative analysis of EMQX, VerneMQ, and RabbitMQ using Kubernetes and monitoring tools.  
-  **Tech**: Kubernetes, HA Proxy, Prometheus, Grafana, AWS
+  **Tech**: MQTT includes EMQX, VerneMQ, RabbitMQ, Kubernetes, HA Proxy, Prometheus, Grafana, AWS
 
 ---
 
 ### 📫 Connect With Me
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
-- 🧑‍💻 GitHub: [github.com/yourusername](https://github.com/yourusername)
+- 📧 Email: [your.email@example.com](mailto:khanhlinh26004@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/linhdoanthikhanh) 
+- 🧑‍💻 GitHub: [github.com/yourusername](https://github.com/Lynrbe)
 
 ---
 
