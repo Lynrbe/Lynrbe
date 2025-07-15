@@ -61,6 +61,12 @@
 - 🧑‍💻 GitHub: [github.com/yourusername](https://github.com/Lynrbe)
 
 ---
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lynrbe&layout=compact&theme=default)
+
+![Lynrbe's GitHub stats](https://github-readme-stats.vercel.app/api?username=lynrbe&show_icons=true&theme=default)
+
 
 > “Learn continually — there's always one more thing to learn.” – Steve Jobs
 
