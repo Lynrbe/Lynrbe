@@ -18,6 +18,7 @@
 ### 🛠️ Skills & Technologies
 
 #### 👩‍💻 Programming
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
 `C/C++` `Python` `Java` `C#` `Bash` 
 
 #### 🗃️ Backend & Databases
