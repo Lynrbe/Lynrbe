@@ -56,17 +56,14 @@
 
 ### 📫 Connect With Me
 
-- 📧 Email: [your.email@example.com](mailto:khanhlinh26004@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/linhdoanthikhanh) 
-- 🧑‍💻 GitHub: [github.com/yourusername](https://github.com/Lynrbe)
+- 📧 Email: [khanhlinh26004@gmail.com](mailto:khanhlinh26004@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/linhdoanthikhanh](https://linkedin.com/in/linhdoanthikhanh) 
+- 🧑‍💻 GitHub: [github.com/Lynrbe](https://github.com/Lynrbe)
 
 ---
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lynrbe&layout=compact&theme=default)
-
-![Lynrbe's GitHub stats](https://github-readme-stats.vercel.app/api?username=lynrbe&show_icons=true&theme=default)
-
 
 > “Learn continually — there's always one more thing to learn.” – Steve Jobs
 
