@@ -10,8 +10,7 @@
 
 - 🎓 I’m currently studying at the University of Information Technology (UIT) – VNU-HCM.
 - 🌐 I'm passionate about **Networking**, **Embedded Systems**, and **DevOps**.
-- 🔭 I’m working on smart assistive devices, flood detection IoT systems, and cloud-based architectures.
-- ✍️ I enjoy combining **hardware**, **software**, and **cloud** to solve real-world problems.
+- 🔭 I’m working on smart assistive devices, smart glass detection IoT systems, and cloud-based architectures.
 
 ---
 
