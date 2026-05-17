@@ -10,20 +10,20 @@
 
 - 🎓 I’m currently studying at the University of Information Technology (UIT) – VNU-HCM.
 - 🌐 I'm passionate about **Networking**, **Embedded Systems**, and **DevOps**.
-- 🔭 I’m working on smart assistive devices, smart glass detection IoT systems, and cloud-based architectures.
+
 
 ---
 
 ### 🛠️ Skills & Technologies
 
 #### 👩‍💻 Programming
-`C/C++` `Python` `Java` `C#` `Bash` 
+`C/C++` `Python` `C#` `Bash` 
 
 #### 🗃️ Backend & Databases
 `Node.js` `MongoDB` `Firebase` `MySQL` `MQTT`
 
 #### ☁️ Cloud
-`AWS Cloud` `Docker` `Kubernetes` `OpenFaaS`
+`AWS Cloud` `Microsoft Azure` `Docker` `Kubernetes`
 
 ### ⚙ Tools
 `HA Proxy` `Prometheus` `Grafana` `Postman` `Cisco Packet Tracer` `Matlab` `Wireshark`
@@ -45,10 +45,6 @@
 - **🚗 Smart Parking System**  
   Infrared sensor-based vehicle detection and real-time parking space update with Android app interface.  
   **Tech**: Node.js, Ngrok, MongoDB, Android Studio, FreeRTOS, Arduino IDE
-
-- **📊 MQTT Performance Benchmarking**  
-  Comparative analysis of EMQX, VerneMQ, and RabbitMQ using Kubernetes and monitoring tools.  
-  **Tech**: MQTT includes EMQX, VerneMQ, RabbitMQ, Kubernetes, HA Proxy, Prometheus, Grafana, AWS
 
 ---
 
